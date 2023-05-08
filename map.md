@@ -2,7 +2,7 @@
 title: Map
 description: 
 published: 1
-date: 2023-05-08T13:01:53.212Z
+date: 2023-05-08T13:02:21.580Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-08T11:25:17.037Z
@@ -20,7 +20,7 @@ This is my map, of all the tree I found which are climable. I hold it very dear 
 *Height hereby is defined by how high one's foot is when standing at the highest point.*
 
 |Icon|Meaning|
-|-|-|
+|:-:|-|
 |<img src="th.png" width="13" height = "20">|Large tree (≥6m)|
 |<img src="t.png" width="13" height = "20">|Medium tree (4-5m) or tree with undefined width|
 |<img src="ts.png" width="13" height = "20">|Small tree (≤3m)|
