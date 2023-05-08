@@ -2,7 +2,7 @@
 title: Map
 description: 
 published: 1
-date: 2023-05-08T12:59:27.771Z
+date: 2023-05-08T13:01:53.212Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-08T11:25:17.037Z
@@ -17,14 +17,15 @@ This is my map, of all the tree I found which are climable. I hold it very dear 
 
 ## Legend
 
+*Height hereby is defined by how high one's foot is when standing at the highest point.*
+
 |Icon|Meaning|
 |-|-|
 |<img src="th.png" width="13" height = "20">|Large tree (≥6m)|
 |<img src="t.png" width="13" height = "20">|Medium tree (4-5m) or tree with undefined width|
 |<img src="ts.png" width="13" height = "20">|Small tree (≤3m)|
-|<img src="omb.png" width="13" height = "20">|Medium / large object (≥4m)|
-|<img src="os.png" width="13" height = "20">||
-|<img src="ob.png" width="13" height = "20">||
-|<img src="a.jpg" width="13" height = "20">||
-|<img src="f.png" width="17" height = "20">||
-|<img src="mt.png" width="13" height = "20">||
+|<img src="omb.png" width="13" height = "20">|Medium / large (climbable) object (≥4m)|
+|<img src="os.png" width="13" height = "20">|Small (climbable) object (≤3m)|
+|<img src="a.jpg" width="13" height = "20">|Abandoned building|
+|<img src="f.png" width="17" height = "20">|(non-climbing) Fire place. For legal reasons, only hypothetically|
+|<img src="mt.png" width="13" height = "20">|(non-climbing) Mountain bike track|
