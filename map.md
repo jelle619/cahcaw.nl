@@ -2,7 +2,7 @@
 title: Map
 description: 
 published: 1
-date: 2023-05-08T11:35:18.721Z
+date: 2023-05-08T12:48:57.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-08T11:25:17.037Z
@@ -15,3 +15,8 @@ This is my map, of all the tree I found which are climable. I hold it very dear 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1rexbN4E9FwTg3A7drjZBdTnQAMmkUco&ehbc=2E312F" width="640" height="480"></iframe>
 
+## Legend
+<img src="a.jpg">
+
+<img src="a.png">
+![ob.png](/ob.png)
