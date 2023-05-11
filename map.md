@@ -2,7 +2,7 @@
 title: Map
 description: 
 published: 1
-date: 2023-05-08T14:49:03.270Z
+date: 2023-05-11T09:38:51.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-08T11:25:17.037Z
@@ -21,11 +21,11 @@ This is my map, of all the tree I found which are climable. I hold it very dear 
 
 |Icon|Meaning|
 |:-:|-|
-|<img src="/th.png" height="20">|Large tree (≥6m)|
-|<img src="/t.png" height="20">|Medium tree (4-5m) or tree with undefined width|
-|<img src="/ts.png" height="20">|Small tree (≤3m)|
-|<img src="/omb.png" height="20">|Medium / large (climbable) object (≥4m)|
-|<img src="/os.png" height="20">|Small (climbable) object (≤3m)|
-|<img src="/a.jpg" height="20">|Abandoned building|
-|<img src="/f.png" height="20">|(non-climbing) Fire place. For legal reasons, only hypothetically|
-|<img src="/mt.png" width="13" height = "20">|(non-climbing) Mountain bike track|
+|<img src="/map sprites/th.png" height="20">|Large tree (≥6m)|
+|<img src="/map sprites/t.png" height="20">|Medium tree (4-5m) or tree with undefined width|
+|<img src="/map sprites/ts.png" height="20">|Small tree (≤3m)|
+|<img src="/map sprites/omb.png" height="20">|Medium / large (climbable) object (≥4m)|
+|<img src="/map sprites/os.png" height="20">|Small (climbable) object (≤3m)|
+|<img src="/map sprites/a.jpg" height="20">|Abandoned building|
+|<img src="/map sprites/f.png" height="20">|(non-climbing) Fire place. For legal reasons, only hypothetically|
+|<img src="/map sprites/mt.png" width="13" height = "20">|(non-climbing) Mountain bike track|
