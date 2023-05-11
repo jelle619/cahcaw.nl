@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2023-05-11T09:03:51.190Z
+date: 2023-05-11T09:42:06.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-25T14:23:22.306Z
@@ -16,7 +16,7 @@ The meat of it will be the most epic story to have ever taken place in Vaesrade 
 
 
 ## People
-- **The Crow**, he's a bit vague but it's quite a vibe: [crow@cahcaw.nl](mailto:thecrow@cahcaw.nl).
+- **The Crow**, I'm the "I"-person on this site. I'm a bit vague but it's quite a vibe: [crow@cahcaw.nl](mailto:thecrow@cahcaw.nl).
 - **The Dragon**, scaly site administrator who likes BBQ: [dragon@cahcaw.nl](mailto:thedragon@cahcaw.nl).
 
 CAWCAW RRRRAAAAA
