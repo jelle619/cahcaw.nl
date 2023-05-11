@@ -2,7 +2,7 @@
 title: Crowspeak
 description: 
 published: 1
-date: 2023-05-11T09:27:33.506Z
+date: 2023-05-11T09:36:57.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-11T09:27:33.506Z
@@ -59,10 +59,6 @@ Prahaw = holiday
 Rowo = rope
 Rowoja = bondage
 Kaja = love
-
-Coe-coe = drugs
-coew-krajaw = weed
-coew-kra = alcohol
 
 Mike = Rowo (rope)
 Filip = Prooh (fire)
