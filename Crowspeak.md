@@ -2,7 +2,7 @@
 title: Crowspeak
 description: 
 published: 1
-date: 2023-05-13T20:25:31.545Z
+date: 2023-05-13T20:25:47.435Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-11T09:27:33.506Z
