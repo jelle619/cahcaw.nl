@@ -2,7 +2,7 @@
 title: Map
 description: 
 published: 1
-date: 2023-05-11T09:38:51.961Z
+date: 2023-05-19T12:41:39.926Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-08T11:25:17.037Z
@@ -28,4 +28,4 @@ This is my map, of all the tree I found which are climable. I hold it very dear 
 |<img src="/map sprites/os.png" height="20">|Small (climbable) object (≤3m)|
 |<img src="/map sprites/a.jpg" height="20">|Abandoned building|
 |<img src="/map sprites/f.png" height="20">|(non-climbing) Fire place. For legal reasons, only hypothetically|
-|<img src="/map sprites/mt.png" width="13" height = "20">|(non-climbing) Mountain bike track|
+|<img src="/map sprites/mt.png">|(non-climbing) Mountain bike track|
