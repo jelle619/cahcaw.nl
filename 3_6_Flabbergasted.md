@@ -2,13 +2,13 @@
 title: 3.6 Flabbergasted
 description: 
 published: 1
-date: 2023-05-19T12:26:29.165Z
+date: 2023-05-19T12:27:37.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T15:08:17.612Z
 ---
 
-# 3.6 What just happened
+# 3.6 Flabbergasted
 
 ## 23.09.22
 
