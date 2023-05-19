@@ -2,7 +2,7 @@
 title: 3.6 Flabbergasted
 description: 
 published: 1
-date: 2023-05-19T11:54:01.059Z
+date: 2023-05-19T12:25:48.095Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T15:08:17.612Z
@@ -26,7 +26,7 @@ So, when I arrived at my depot, I asked exactly that to the guy handing out the 
 
 I couldn't believe it. I looked again, and yes, that was indeed me and my friend. In the biggest newspaper of my region (3/4th of all physical newspapers delivered are Limburgers).
 
-![3.6a.jpg](/treehouse_story/3.6a.jpg)
+![3.6a.jpg](/treehouse_story/3.6a.jpg)	
 
 Suffice to say, my brain froze for a good minute or two, and I still get chills thinking back to that moment. I had clearly told the editorial twice to delete it, but the fact it was on the front page changes everything. In hindsight what probably had happened, is that the editorial has some kind of rule that they must either publish a story within a set amount of time, or drop it. Them feeling sympathy for us, made them do the bullish thing of publishing our story in order to hopefully change things.
 
@@ -42,12 +42,13 @@ Then I thought, hm, it is a bit bullish to vandalize newspapers I deliver. But, 
 - Another person I delivered to, happened to also be a lady my mom knows. They had talked about the article and the lady said: "It's outrageous that the municipality does this! I will call them and tell them this is bullshit!"
 - When I walked around with my Christmas cards a couple months later (and make small talk + receive tips), at LEAST 10 people had asked about an update of the whole situation. All of them said they found it stupid how the municipality was acting.
 - The mom of one of the children I know because I volunteer at a scouting, had seen the article and bought me and Mike (who also volunteers there) a small canvas with the picture of the front page article on it.
+![3.6c.jpg](/treehouse_story/3.6c.jpg)
 - A ton of messages from random people who I barely know who had seen the article, voicing their support.
 
 The article itself was no different. It was 100% on our side, even giving arguments of why this is ridiculous which we hadn't thought of. Now, as for the article itself:
 
 
-![3.6c.jpg](/treehouse_story/3.6c.jpg)
+![3.6c.jpg](/treehouse_story/3.6d.jpg)
 *Translation: 
 Tag: Law enforcerment
 Title: Two friends from Vaesrade have to demolish 'therapeutic' treehouse
@@ -110,4 +111,4 @@ Who hasn't built a treehouse as a child, or at least dreamt of it. How nice woul
 There has to be something to resolve this issue, one would say. To move to dreamland? Or create a free place where everyone is allowed to pursue their dreams? But perhaps we can stay closer to reality. Maybe there is someone out there, thinking: "I know a plot of land with a tree where one is allowed to build a treehouse. If so, let us know through the following mail address. Then we can possibly make at least two people happy. ██@██"*
 
 At some later date I made the following frame to forever honour this event. Of course the wood and plastic I used all originate from leftover construction materials from the treehouse:
-![3.6d.jpg](/treehouse_story/3.6d.jpg)
+![3.6e.jpg](/treehouse_story/3.6e.jpg)
