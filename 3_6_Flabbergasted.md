@@ -2,13 +2,13 @@
 title: 3.6 Flabbergasted
 description: 
 published: 1
-date: 2023-05-19T12:42:54.404Z
+date: 2023-05-24T12:36:29.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T15:08:17.612Z
 ---
 
-# 3.6 Flabbergasted
+# 3.6 What just happened
 
 ## 23.09.22
 
@@ -97,6 +97,19 @@ Finally, my reply:
 *"Once again, I am sorry. Of course the clean-up will be carried on.*
 
 For the record, the telegraph is a national newspaper (instead of a regional one). We even got our article published there, but, we didn't make it to the front page.
+
+---
+
+Finally there was some back-and-forth with the person for the editorial, in order to ensure we weren't shooting ourselves in the foot.
+
+Me:
+*With all due respect, can you (for now) leave the inheritors alone? We can receive a lot of backlash if you're going to now bother them.*
+
+Him:
+*I will leave them alone regardless, I do not know who they are, so I can't approach them.*
+
+Me:
+*Well, it is what it is. It is cool though to see the treehouse on the front page. Thank you regardless, maybe this can work out in our favor by having the municipality read our side of the story.*
 
 ---
 
