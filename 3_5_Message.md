@@ -2,7 +2,7 @@
 title: The Message
 description: 
 published: 1
-date: 2023-05-26T08:04:32.898Z
+date: 2023-05-26T08:09:59.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T08:04:32.898Z
@@ -85,5 +85,7 @@ Him:
 *Hey, I didn't understand that I was supposed to wait with the article until it was all blown over. It was my intention to receive a reaction from the inheritors. Sorry for the misunderstanding.*
 
 The clock continued ticking...
+
+---
 
 [Next Chapter](https://cahcaw.nl/en/3_6_Flabbergasted)
