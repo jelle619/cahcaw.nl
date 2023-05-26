@@ -2,13 +2,11 @@
 title: 3.7 Leverage
 description: 
 published: 1
-date: 2023-05-19T12:12:10.833Z
+date: 2023-05-26T08:11:27.317Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:12:10.833Z
 ---
-
-# Leverage
 
 ## 24.09.22
 
