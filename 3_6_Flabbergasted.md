@@ -2,7 +2,7 @@
 title: 3.6 Flabbergasted
 description: 
 published: 1
-date: 2023-05-26T08:08:44.131Z
+date: 2023-05-26T08:09:25.234Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T15:08:17.612Z
@@ -99,5 +99,7 @@ There has to be something to resolve this issue, one would say. To move to dream
 
 At some later date I made the following frame to forever honour this event. Of course the wood and plastic I used all originate from leftover construction materials from the treehouse:
 ![3.6e.jpg](/treehouse_story/3.6e.jpg)
+
+---
 
 [Next Chapter](https://cahcaw.nl/en/3_7_Leverage)
