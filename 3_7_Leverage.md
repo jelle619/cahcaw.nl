@@ -2,7 +2,7 @@
 title: 3.7 Leverage
 description: 
 published: 1
-date: 2023-05-26T08:23:24.407Z
+date: 2023-05-26T08:26:09.524Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:12:10.833Z
@@ -40,7 +40,7 @@ On the other side of the line, it was THE guy who had the final say on the matte
 
 He mentioned how he just got back from vacation.
 *Kind of hilarious imagining coming back from your vacation and then having to deal with this dumpster fire*
-He told us how the municipality wasn't even following their own procedures correctly. The municipality first had to formally process our exoneration before they could tell us to go. As he described it: "Let's say it got approved, but at the same time the treehouse is already gone. That wouldn't make sense, thus it is typical procedure to first formally process the exoneration before we can order a demolishment".
+He told us how the municipality wasn't even following their own procedures correctly. The municipality first had to formally process our exoneration request before they could tell us to go. As he described it: "Let's say it got approved, but at the same time the treehouse is already gone. That wouldn't make sense, thus it is typical procedure to first formally process the exoneration request before we can order a demolishment".
 
 Meaning.....
 THE DATE OF 1 NOVEMBER WAS NO MORE.
