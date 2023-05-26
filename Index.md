@@ -2,13 +2,15 @@
 title: 0_The_Story
 description: 
 published: 1
-date: 2023-05-26T07:29:47.984Z
+date: 2023-05-26T07:31:58.770Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-11T09:11:16.890Z
 ---
 
 # The Story
+
+The truth is... it's a long one. It doesn't make sense to put it on a single page, so I decided to split it up.
 
 Please press the chapter, which will redirect you to the respective page.
 The pages without a link still need to be written out.
