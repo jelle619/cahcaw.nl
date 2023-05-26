@@ -2,7 +2,7 @@
 title: 3.7 Leverage
 description: 
 published: 1
-date: 2023-05-26T08:26:09.524Z
+date: 2023-05-26T08:27:25.862Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:12:10.833Z
@@ -88,4 +88,4 @@ Filip & Mike*
 ## 1.10.22
 
 And that is it right.... What was supposed to be the final day, evaded.... For now.
-We never got a response from our contact person on this last mail. He probably out of frustration accepted our plea without feeling like responding.
+We never got a response from our contact person on the last mail. He probably out of frustration accepted our plea without feeling like responding.
