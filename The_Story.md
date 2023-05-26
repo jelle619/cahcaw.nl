@@ -2,7 +2,7 @@
 title: The Story
 description: 
 published: 1
-date: 2023-05-26T08:06:04.354Z
+date: 2023-05-26T08:06:40.546Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T07:59:27.460Z
@@ -28,9 +28,9 @@ The pages without a link still need to be written out.
 3. Sept 2022 - Nov 2022: Second report
    3.1 Another visit
    3.2 Deadline
-   3.3 End-of-the-world party
-   3.4 Action
-   [3.5 Editorial](https://cahcaw.nl/en/3_5_Message)
+   3.3 Action
+   3.4 Editorial
+   [3.5 Message](https://cahcaw.nl/en/3_5_Message)
    [3.6 Flabbergasted](https://cahcaw.nl/en/3_6_Flabbergasted)
    [3.7 Leverage](https://cahcaw.nl/en/3_7_Leverage)
 
