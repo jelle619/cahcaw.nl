@@ -2,7 +2,7 @@
 title: TODO
 description: 
 published: 1
-date: 2023-05-26T08:51:32.823Z
+date: 2023-05-26T08:51:54.389Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T08:48:06.841Z
@@ -12,11 +12,12 @@ dateCreated: 2023-05-26T08:48:06.841Z
 
 ## High prio
 - Continue "the story"
-- Make a page pertaining the development of the treehouse itself through pictures
+
 
 ## Mid prio
 - Establish "crow zone"
 - Put up crow posters page
+- Make a page pertaining the development of the treehouse itself through pictures
 
 ## Low prio
 - Put up loose stories related to the treehouse
