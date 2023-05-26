@@ -2,7 +2,7 @@
 title: 3.6 Flabbergasted
 description: 
 published: 1
-date: 2023-05-26T07:52:49.639Z
+date: 2023-05-26T07:53:12.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T15:08:17.612Z
@@ -28,7 +28,7 @@ I couldn't believe it. I looked again, and yes, that was indeed me and my friend
 
 ![3.6a.jpg](/treehouse_story/3.6a.jpg)	
 *Text on our image: Not just a treehouse, but it has to be demolished
-*The contents of the article itself is the same as the online article, which can be found in the previous chapter.*
+The contents of the article itself is the same as the online article, which can be found in the previous chapter.*
 
 Suffice to say, my brain froze for a good minute or two, and I still get chills thinking back to that moment. I had clearly told the editorial twice to delete it, but the fact it was on the front page changes everything. In hindsight what probably had happened, is that the editorial has some kind of rule that they must either publish a story within a set amount of time, or drop it. Them feeling sympathy for us, made them do the bullish thing of publishing our story in order to hopefully change things.
 
