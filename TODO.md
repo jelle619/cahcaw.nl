@@ -2,7 +2,7 @@
 title: TODO
 description: 
 published: 1
-date: 2023-05-26T08:48:06.841Z
+date: 2023-05-26T08:49:13.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T08:48:06.841Z
@@ -10,6 +10,7 @@ dateCreated: 2023-05-26T08:48:06.841Z
 
 # TODO
 - Continue "the story"
+- Make a page pertaining the development of the treehouse itself through pictures
 - Establish "crow zone"
 - Put up crow posters page
 
