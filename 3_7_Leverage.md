@@ -2,11 +2,13 @@
 title: 3.7 Leverage
 description: 
 published: 1
-date: 2023-05-26T08:11:27.317Z
+date: 2023-05-26T08:23:24.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:12:10.833Z
 ---
+
+# Leverage
 
 ## 24.09.22
 
@@ -38,7 +40,7 @@ On the other side of the line, it was THE guy who had the final say on the matte
 
 He mentioned how he just got back from vacation.
 *Kind of hilarious imagining coming back from your vacation and then having to deal with this dumpster fire*
-He told us how the municipality wasn't even following their own procedures correctly. The municipality first had to formally process our 'ontheffing' before they could tell us to go. As he described it: "Let's say it got approved, but at the same time the treehouse is already gone. That wouldn't make sense, thus it is typical procedure to first formally process the ontheffing before we can order a demolishment".
+He told us how the municipality wasn't even following their own procedures correctly. The municipality first had to formally process our exoneration before they could tell us to go. As he described it: "Let's say it got approved, but at the same time the treehouse is already gone. That wouldn't make sense, thus it is typical procedure to first formally process the exoneration before we can order a demolishment".
 
 Meaning.....
 THE DATE OF 1 NOVEMBER WAS NO MORE.
@@ -69,7 +71,7 @@ The fact stays that ""strangers"", Filip and Mike, which aren't authorized, ille
 At the time I permitted the treehouse until summer 2022, after which you had to clean everything up and not enter the property anymore.
 However, then you seemed interested to buy this property, until law enforcement messed everything up.
 Now it turns out, after havig contact with the municipality, you guys want a postponement and wait for a response from the municipality. Let's say this is in your favor, that means you want to buy the land. Assume that this has been fully worked out on your side.
-Is the law enforcement aware that we are in conflict with the end date of 1 november, and all the consequences? We shouldn't use this development to just buy time.
+Is the law enforcement aware that we are in conflict with the end date of 1 November, and all the consequences? We shouldn't use this development to just buy time.
 Yours kindly,
 ███
 
