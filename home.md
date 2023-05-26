@@ -2,13 +2,12 @@
 title: Home
 description: 
 published: 1
-date: 2023-05-24T15:09:14.867Z
+date: 2023-05-26T08:15:41.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-25T14:23:22.306Z
 ---
 
-# Home
 Cahcaw etymology: A screech used to immitate a crow.
 Why? That is for you to figure out.
 This site is still work in progress, and will be used to host content held dear to the crows and all their madness.
