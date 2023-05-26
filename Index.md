@@ -2,13 +2,16 @@
 title: 0_Index
 description: 
 published: 1
-date: 2023-05-24T12:13:39.016Z
+date: 2023-05-26T07:28:32.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-11T09:11:16.890Z
 ---
 
 # Index
+
+Please press the chapter, which will redirect you to the respective page.
+The pages without a link still need to be written out.
 
 1. Oct 2020 - May 2022: Peaceful times
    1.1. The concept
@@ -28,7 +31,7 @@ dateCreated: 2023-05-11T09:11:16.890Z
    3.3 End-of-the-world party
    3.4 Action
    3.5 Editorial
-   3.6 Flabbergasted
-   3.7 Leverage
+   [3.6 Flabbergasted](https://cahcaw.nl/en/3_6_Flabbergasted)
+   [3.7 Leverage](https://cahcaw.nl/en/3_7_Leverage)
 
 4. Nov 2022 - present: Limbo
