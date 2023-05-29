@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2023-05-26T08:15:41.475Z
+date: 2023-05-29T16:04:45.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-25T14:23:22.306Z
@@ -28,6 +28,7 @@ Purely dedicated to crows and nothing else
 
 ## Contact
 - **The Crow**, The "I"-person on this site. I'm a bit vague but supposedly a vibe: [crow@cahcaw.nl](mailto:thecrow@cahcaw.nl).
-- **The Dragon**, scaly site administrator who likes BBQ: [dragon@cahcaw.nl](mailto:thedragon@cahcaw.nl).
+- **The Dragon**, scaly site administrator who likes BBQ: [dragon@cahcaw.nl](mailto:thedragon@cahcaw.nl)
+- dazetwo, the "crow artist" of Heerlen. Imagine being paid by the government to paint crows on walls. Big thanks to him for designing the logo for this site. Can be found on Instagram by his name.
 
 CAWCAW RRRRAAAAA
