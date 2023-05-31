@@ -2,11 +2,13 @@
 title: Map
 description: 
 published: 1
-date: 2023-05-26T08:16:29.168Z
+date: 2023-05-31T08:05:10.636Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-08T11:25:17.037Z
 ---
+
+# Map
 
 I'm as free as a bird, yet I can't fly. So, the best I can do, is climb in a tree.
 
@@ -20,10 +22,10 @@ This is my map, of all the tree I found which are climable. I hold it very dear 
 
 |Code|Icon|Meaning|
 |:-:|:-:|-|
-|TL|<img src="/map sprites/th.png" height="20">|Large tree (≥6m)|
+|TL|<img src="/map sprites/tl.png" height="20">|Large tree (≥6m)|
 |TM|<img src="/map sprites/t.png" height="20">|Medium tree (4-5m) or tree with undefined width|
 |TS|<img src="/map sprites/ts.png" height="20">|Small tree (≤3m)|
-|OM/OL|<img src="/map sprites/omb.png" height="20">|Medium / large (climbable) object (≥4m)|
+|OM/OL|<img src="/map sprites/oml.png" height="20">|Medium / large (climbable) object (≥4m)|
 |P/OS|<img src="/map sprites/os.png" height="20">|Small (climbable) object (≤3m)|
 |A|<img src="/map sprites/a.jpg" height="20">|Abandoned building|
 |F| <img src="/map sprites/f.png" height="20">|(non-climbing) Fire place. For legal reasons, only hypothetically|
