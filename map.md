@@ -2,7 +2,7 @@
 title: Map
 description: 
 published: 1
-date: 2023-05-31T08:05:40.144Z
+date: 2023-05-31T09:14:16.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-08T11:25:17.037Z
@@ -18,7 +18,7 @@ This is my map, of all the tree I found which are climable. I hold it very dear 
 
 ## Legend
 
-*Height hereby is defined by how high one's foot is when standing at the highest point.*
+*Height hereby is defined by how high one's foot is when standing at the highest point. These are indicated by the numbers included with each icon.*
 
 |Code|Icon|Meaning|
 |:-:|:-:|-|
