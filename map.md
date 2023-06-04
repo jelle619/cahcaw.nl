@@ -2,7 +2,7 @@
 title: Map
 description: 
 published: 1
-date: 2023-06-04T19:37:41.475Z
+date: 2023-06-04T19:39:56.348Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-08T11:25:17.037Z
@@ -28,6 +28,7 @@ This is my map, of all the tree I found which are climable. I hold it very dear 
 |OM/OL|<img src="/map sprites/oml.png" height="20">|Medium / large (climbable) object (≥4m)|
 |P/OS|<img src="/map sprites/os.png" height="20">|Small (climbable) object (≤3m)|
 |OB|<img src="/map sprites/ob.png" height="20">|(climbable) Bus Stop, unless otherwise specified = 2m|
+|P|<img src="/map sprites/p.png" height="20">|(climbable) playground-related object|
 |A|<img src="/map sprites/a.jpg" height="20">|Abandoned building|
 |F| <img src="/map sprites/f.png" height="20">|(non-climbing) Fire place. For legal reasons, only hypothetically|
 |MT|<img src="/map sprites/mt.png" width = "20" height = "20">|(non-climbing) Mountain bike track|
