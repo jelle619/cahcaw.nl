@@ -2,7 +2,7 @@
 title: TODO
 description: 
 published: 1
-date: 2023-06-04T19:40:58.656Z
+date: 2023-06-04T20:09:29.500Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T08:48:06.841Z
@@ -23,7 +23,6 @@ dateCreated: 2023-05-26T08:48:06.841Z
 .Graffiti artist
 .Tattoos
 .CAHCAW origin story
-- Put up Lynda's pics
 
 ## Dependencies
 
