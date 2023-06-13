@@ -2,7 +2,7 @@
 title: Treehouse Media
 description: 
 published: 1
-date: 2023-06-13T20:09:02.711Z
+date: 2023-06-13T20:09:17.414Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-04T19:57:30.228Z
@@ -13,7 +13,8 @@ dateCreated: 2023-06-04T19:57:30.228Z
 ## Video
 <iframe style="max-width: 100%" width="560" height="315" src="https://www.youtube.com/embed/79cAmNZVNXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Painting![ppp.png](/project_peanut/ppp.png)
+## Painting
+![ppp.png](/project_peanut/ppp.png)
 
 ## Photos
 
