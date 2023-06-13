@@ -2,7 +2,7 @@
 title: Treehouse Media
 description: 
 published: 1
-date: 2023-06-04T20:20:51.376Z
+date: 2023-06-13T16:56:50.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-04T19:57:30.228Z
@@ -11,9 +11,11 @@ dateCreated: 2023-06-04T19:57:30.228Z
 # Treehouse Media
 
 ## Video
-https://www.youtube.com/watch?v=79cAmNZVNXA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79cAmNZVNXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Pictures
+## Picture
+
+## Photos
 
 ![ppm1.jpg](/project_peanut/ppm1.jpg)
 
