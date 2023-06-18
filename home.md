@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2023-06-13T17:32:36.873Z
+date: 2023-06-18T14:19:42.531Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-25T14:23:22.306Z
@@ -32,7 +32,7 @@ Purely dedicated to crows and nothing else.
 
 ## Credits
 - **The Crow** (prooh), The "I"-person on this site writing up everything. I'm vague but supposedly a vibe: [thecrow@cahcaw.nl](mailto:thecrow@cahcaw.nl).
-- **The Crow** (rowo), the other half of the "We"-person that has made all of this possible. Different composture of vague and vibiness but not too different. [rowo@cahcaw.nl](mailto:rowo@cahcaw.nl)
+- **The Crow** (rowo), my partner in crime who has made all of this possible. Different composture of vague and vibiness but not too different. [rowo@cahcaw.nl](mailto:rowo@cahcaw.nl)
 - **The Dragon**, scaly site administrator who likes BBQ. Big thanks for helping me set up everything: [thedragon@cahcaw.nl](mailto:thedragon@cahcaw.nl)
 - **Dazetwo**, the "crow artist" of Heerlen. Imagine being paid by the government to paint crows on walls. Big thanks for designing the logo of this site. [Instagram here](https://www.instagram.com/dazetwo/)
 - **Aw-cakaja**, friend of mine who I pay starbucks in order to create logos. Mainly the icons used on the map.
