@@ -2,7 +2,7 @@
 title: The Story
 description: 
 published: 1
-date: 2023-05-26T08:15:12.455Z
+date: 2023-06-18T14:07:35.088Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T07:59:27.460Z
@@ -32,4 +32,4 @@ The pages without a link still need to be written out.
    [3.6 Flabbergasted](https://cahcaw.nl/en/3_6_Flabbergasted)
    [3.7 Leverage](https://cahcaw.nl/en/3_7_Leverage)
 
-4. Nov 2022 - present: Limbo
+4. [Nov 2022 - present: Limbo](https://cahcaw.nl/en/4_0_Limbo)
