@@ -2,13 +2,13 @@
 title: The Message
 description: 
 published: 1
-date: 2023-06-18T14:12:19.889Z
+date: 2023-06-18T14:12:51.458Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T08:04:32.898Z
 ---
 
-# The Message
+# Message
 
 ## 22.9.22
 
