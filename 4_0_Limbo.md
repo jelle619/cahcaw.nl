@@ -2,7 +2,7 @@
 title: 4.0 Limbo
 description: 
 published: 1
-date: 2023-06-18T21:15:13.910Z
+date: 2023-06-18T21:15:36.477Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-18T14:07:02.426Z
@@ -20,7 +20,7 @@ Half a year passed, and the silence was finally broken by the inheritor. Mike go
 He was worried about them making a commition again.
 This was strange, we didn't hear anything from the municipality. We wondered... but most certainly were not going to give in.
 So we sent him a message reminding him that there was nothing going on, and how we were going to buy the plot of land if we got approval from the municipality.
-Then he said thanks, reminded us of preventing illegal dumping of trash, and told us to have a nice day.
+Finally he said thanks, reminded us of preventing illegal dumping of trash, and told us to have a nice day.
 
 ...
 
