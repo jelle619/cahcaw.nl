@@ -2,13 +2,13 @@
 title: 3.7 Leverage
 description: 
 published: 1
-date: 2023-05-26T08:27:41.231Z
+date: 2023-06-18T14:03:28.619Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:12:10.833Z
 ---
 
-# Leverage
+# 3.7 Leverage
 
 ## 24.09.22
 
@@ -73,7 +73,7 @@ However, then you seemed interested to buy this property, until law enforcement 
 Now it turns out, after havig contact with the municipality, you guys want a postponement and wait for a response from the municipality. Let's say this is in your favor, that means you want to buy the land. Assume that this has been fully worked out on your side.
 Is the law enforcement aware that we are in conflict with the end date of 1 November, and all the consequences? We shouldn't use this development to just buy time.
 Yours kindly,
-███
+███*
 
 ---
 
