@@ -2,7 +2,7 @@
 title: 3.7 Leverage
 description: 
 published: 1
-date: 2023-06-18T14:03:28.619Z
+date: 2023-06-18T14:04:05.503Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:12:10.833Z
@@ -62,7 +62,7 @@ Department area*
 
 ---
 
-We were safe, but there was one more thing to do - inform our central land owner of this development (the mail I sent is basically a summary, which isn't too interesting). Their response was as follows:
+We were safe, but there was one more thing to do - inform our central land owner of this development (the mail I sent is a summary of this page, which isn't too interesting). Their response was as follows:
 
 ## 30.09.22
 
