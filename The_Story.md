@@ -2,7 +2,7 @@
 title: The Story
 description: 
 published: 1
-date: 2023-06-18T22:01:29.977Z
+date: 2023-06-18T22:01:44.958Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T07:59:27.460Z
@@ -27,7 +27,7 @@ The pages without a link still need to be written out.
    3.1 Another visit
    3.2 Deadline
    3.3 Action
-   [3.4 Editorial](https://cahcaw.nl/e/en/3_4_Editorial)
+   [3.4 Editorial](https://cahcaw.nl/en/3_4_Editorial)
    [3.5 Message](https://cahcaw.nl/en/3_5_Message)
    [3.6 Flabbergasted](https://cahcaw.nl/en/3_6_Flabbergasted)
    [3.7 Leverage](https://cahcaw.nl/en/3_7_Leverage)
