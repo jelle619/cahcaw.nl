@@ -2,13 +2,13 @@
 title: The Story
 description: 
 published: 1
-date: 2023-06-18T22:02:33.630Z
+date: 2023-06-18T22:03:03.584Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T07:59:27.460Z
 ---
 
-# The story
+# The Story
 
 Please press the chapter, which will redirect you to the respective page.
 The pages without a link still need to be written out.
