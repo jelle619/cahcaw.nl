@@ -2,7 +2,7 @@
 title: 3.7 Leverage
 description: 
 published: 1
-date: 2023-06-18T14:04:05.503Z
+date: 2023-06-19T22:13:53.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:12:10.833Z
@@ -14,8 +14,8 @@ dateCreated: 2023-05-19T12:12:10.833Z
 
 What an amazing thing to happen, to just end up on the front page like that. But the truth was, the treehouse still had to go. We of course weren't going to demolish it immediately (as much as the owner urged us to do so), we were just going to take our time. The planning I had was as follows:
 1st of November - the treehouse had to be gone.
-1st of Oktober - we start demolishing the treehouse
-Whereby from the 1st of Oktober till the 2nd we would hold a sleepover party with the crows (since we for some reason had never done that before).
+1st of October - we start demolishing the treehouse
+Whereby from the 1st of October till the 2nd we would hold a sleepover party with the crows (since we for some reason had never done that before).
 
 But, life went on per usual. I happened to also visit my friend from Germany that day (the same one who gave the initial idea). Of course this whole news paper article was a big talking point. Since he doesn't know Dutch, I translated the entire article to him.
 
@@ -62,18 +62,9 @@ Department area*
 
 ---
 
-We were safe, but there was one more thing to do - inform our central land owner of this development (the mail I sent is a summary of this page, which isn't too interesting). Their response was as follows:
+We were safe, but there was one more thing to do - inform our central land owner of this development. He was understandably still on edge. But, given the previous offer of us buying this useless plot of land, he was still willing to cooperate given the condition that we don't back out.
 
-## 30.09.22
 
-*Dear Filip, Mike
-The fact stays that ""strangers"", Filip and Mike, which aren't authorized, illegitimately made use of someone else's property, which is forbidden for you!
-At the time I permitted the treehouse until summer 2022, after which you had to clean everything up and not enter the property anymore.
-However, then you seemed interested to buy this property, until law enforcement messed everything up.
-Now it turns out, after havig contact with the municipality, you guys want a postponement and wait for a response from the municipality. Let's say this is in your favor, that means you want to buy the land. Assume that this has been fully worked out on your side.
-Is the law enforcement aware that we are in conflict with the end date of 1 November, and all the consequences? We shouldn't use this development to just buy time.
-Yours kindly,
-███*
 
 ---
 
