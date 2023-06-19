@@ -2,13 +2,13 @@
 title: Commune Summary
 description: 
 published: 1
-date: 2023-06-19T23:35:36.167Z
+date: 2023-06-19T23:35:41.084Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:33:30.805Z
 ---
 
-# Commune summary
+# Commune Summary
 
 The dream of the commune is simple: To live like a bunch of free souls in a forest. This dream is inherently rooted in the rejection of the modern world, instead relying on ourselves. Instead they desire that which was lost during our centuries of progress: To be closer with nature & be invested in a loving community.
 
