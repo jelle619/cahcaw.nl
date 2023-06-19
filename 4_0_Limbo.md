@@ -2,7 +2,7 @@
 title: 4.0 Limbo
 description: 
 published: 1
-date: 2023-06-18T21:15:36.477Z
+date: 2023-06-19T22:07:16.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-18T14:07:02.426Z
@@ -32,11 +32,12 @@ and the silence continued.
 
 Whilst working on these pages and going through all the chat logs I realized I had never thanked the editorial. So, I wrote them a message:
 
+Me:
 *I actually never told you that thanks to you the treehouse is still standing, or did I?
 Either way, I want to thank you a lot.
 We are currently waiting for the 5-7 business day respond from the municipality regarding the definitive verdict, after they realized it is typical procedure that they first have to approve/disapprove of the exoneration request before they can force us to go away*
 
-His response:
+Editorial guy:
 *"Hey Filip,
 Thanks for the message, and you're welcome.
 No, I did not know this.
@@ -49,14 +50,14 @@ Me:
 *"Mwah, is it okay if we come back to it once the final verdict has been made?
 We don't want to wake up sleeping wolves"*
 
-Him:
+Editorial guy:
 *Understandable.
 That wouldn't be good...*
 
 Me:
 *Either way, thank you for everything! You will one day hear from me.*
 
-Him:
+Editorial guy:
 *No problem, hope you can stay.*
 
 
