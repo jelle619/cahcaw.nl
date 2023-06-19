@@ -2,7 +2,7 @@
 title: Crow Posters
 description: 
 published: 1
-date: 2023-06-19T21:47:33.217Z
+date: 2023-06-19T21:53:33.675Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-19T21:47:33.217Z
@@ -10,7 +10,7 @@ dateCreated: 2023-06-19T21:47:33.217Z
 
 # Crow Posters
 
-![irl.jpg](/map legend/irl.jpg)
+<img src="/map legend/irl.jpg">
 
 ---
 
@@ -24,7 +24,8 @@ Finally came the plan. During the summer holiday me and 2 close friends of mine 
 
 ---
 
-![poster01.png](/map legend/poster01.png)
+<img src="/map legend/poster01.png">
+
 *Missing: My crow
 CAH-CAW.
 He responds to his name.
@@ -36,7 +37,8 @@ Contact: discord.gg/pzGpnbQ*
 
 ---
 
-![poster02.png](/map legend/poster02.png)
+<img src="/map legend/poster02.png">
+
 *My dear crow CAH-CAW.
 If you see him shout
 his name!
@@ -48,7 +50,8 @@ Kontact: [discord.gg/](discord.gg/pzGpnbQ)
 
 ---
 
-![poster03.png](/map legend/poster03.png)
+<img src="/map legend/poster03png">
+
 *Missing: crow of my son
 Cah-Caw
 He responds by his name.
@@ -60,7 +63,8 @@ Contact: discord.gg/pzGpnbQ*
 
 ---
 
-![poster04.png](/map legend/poster04.png)
+<img src="/map legend/poster04.png">
+
 *Missing: my crow
 CAH-CAW
 - knows 250 screeches
@@ -74,7 +78,8 @@ Contact: discord.gg/pzGpnbQ*
 
 ---
 
-![poster05.png](/map legend/poster05.png)
+<img src="/map legend/poster05.png">
+
 *Missing: My crow
 CAH-CAW
 Are you this crow?
@@ -85,7 +90,7 @@ Contact: [discord.gg](discord.gg/pzGpnbQ)/
 
 ---
 
-![poster06.png](/map legend/poster06.png)
+<img src="/map legend/poster06.png">
 
 Missing: My crow cah-caw
 be aware, he hunts people,
@@ -98,11 +103,11 @@ BE AWARE
 
 ---
 
-![poster07.png](/map legend/poster07.png)
+<img src="/map legend/poster07.png">
 
 ---
 
-![poster08.png](/map legend/poster08.png)
+<img src="/map legend/poster08.png">
 
 мысын: май кров
 ках-кав
