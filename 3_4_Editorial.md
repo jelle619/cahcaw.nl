@@ -2,13 +2,13 @@
 title: Editorial
 description: 
 published: 1
-date: 2023-06-18T22:01:12.417Z
+date: 2023-06-19T22:10:11.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-18T22:01:12.417Z
 ---
 
-# Editorial
+# 3.4 Editorial
 
 ## 16.09.22
 
@@ -65,7 +65,7 @@ Me:
 *Hey, I'm the one from the treehouse. I'm glad to hear back from you! The treehouse itself is a bit hidden, but if you come to ██████, then we can walk together to the treehouse ███████.
 Me and Mike have both time on monday, but only after 7pm. I am also planning on visiting the municipality building, to ask once again if something can be done for us.*
 
-Him:
+Editorial guy:
 *Thanks for the response.
 This is in Vaesrade, correct?
 I will be there around 7pm, but I do not have much time because I have to be in Sittard around 8pm.
@@ -74,7 +74,7 @@ Friendly regards and until monday.*
 Me:
 *It is indeed in Vaesrade. You can also come at 6, so we're less short on time.*
 
-Him:
+Editorial guy:
 *Sounds good. Is it okay if we take pictures?*
 
 Me:
@@ -111,7 +111,7 @@ Me:
 *Hello! I have contacted the contact person of the inheritors, and they said they had no interest in publicizing (or now) due to commotion. He did say he was interested in talking once it's all over.
 Soo, can you for now drop the idea of contacting the municipality? Then we will pick up contact again at the start of november.*
 
-Him:
+Editorial guy::
 *Okay, but I just need their confirmation that they are okay with you being there.
 I don't need their names.
 Can you ask them to let me know via e-mail?
