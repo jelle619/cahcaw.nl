@@ -2,7 +2,7 @@
 title: Commune Summary
 description: 
 published: 1
-date: 2023-06-19T23:35:41.084Z
+date: 2023-06-20T22:24:48.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:33:30.805Z
@@ -14,7 +14,7 @@ The dream of the commune is simple: To live like a bunch of free souls in a fore
 
 Whilst there are many ways of going about this. This document will encapsulate the interpretation of the crow. Why a crow? Well, that is a story for another time.
 
-![cover_art_v1.jpg](/commune/cover_art_v1.jpg)
+<img src="/commune/cover_art_v1.jpg" style="height: 80vh">
 
 In the way of the crow, we want to avoid turning the commune into an ideology or a cult. Instead, all we care about in the end, is a good atmosphere. What we believe is necessary for a good atmosphere is:
 
@@ -136,7 +136,7 @@ One of these, who is more so interested in helping set up infrastructure instead
 
 The only profession that is truly lacking in making it work, is someone who is knowledgeable in laws. But, in the worst case someone can be hired to make that part work, but this of course will cost a lot of money.
 
-Thus, with the current state of affairs, we have 16 people. However, what I learned after talking with Leon, is that there are a huge amount of likeminded people in Germany who are also interested in this concept. He estimated that this amount may be around 30 people, which would be ridiculous. This survey will hopefully clear things up.
+Thus, with the current state of affairs, we have 16 people. However, what I learned after talking with ███, is that there are a huge amount of likeminded people in Germany who are also interested in this concept. He estimated that this amount may be around 30 people, which would be ridiculous. This survey will hopefully clear things up.
 
 Again, the goal is to start the commune with as many people as possible. This is because the more people we have, the more money we can pool together, which will result in a plot of land as big as possible. The size of the land, in the end, will be that which will measure success.
 
