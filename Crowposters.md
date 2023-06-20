@@ -2,7 +2,7 @@
 title: Crow Posters
 description: 
 published: 1
-date: 2023-06-19T21:53:33.675Z
+date: 2023-06-20T22:41:18.836Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-19T21:47:33.217Z
@@ -10,7 +10,7 @@ dateCreated: 2023-06-19T21:47:33.217Z
 
 # Crow Posters
 
-<img src="/map legend/irl.jpg">
+<img src="/map legend/irl.jpg" style="max-height: 90vh">
 
 ---
 
@@ -24,7 +24,7 @@ Finally came the plan. During the summer holiday me and 2 close friends of mine 
 
 ---
 
-<img src="/map legend/poster01.png">
+<img src="/map legend/poster01.png" style="max-height: 90vh">
 
 *Missing: My crow
 CAH-CAW.
@@ -37,7 +37,7 @@ Contact: discord.gg/pzGpnbQ*
 
 ---
 
-<img src="/map legend/poster02.png">
+<img src="/map legend/poster02.png" style="max-height: 90vh">
 
 *My dear crow CAH-CAW.
 If you see him shout
@@ -50,7 +50,7 @@ Kontact: [discord.gg/](discord.gg/pzGpnbQ)
 
 ---
 
-<img src="/map legend/poster03png">
+<img src="/map legend/poster03.png" style="max-height: 90vh">
 
 *Missing: crow of my son
 Cah-Caw
@@ -63,7 +63,7 @@ Contact: discord.gg/pzGpnbQ*
 
 ---
 
-<img src="/map legend/poster04.png">
+<img src="/map legend/poster04.png" style="max-height: 90vh">
 
 *Missing: my crow
 CAH-CAW
@@ -78,7 +78,7 @@ Contact: discord.gg/pzGpnbQ*
 
 ---
 
-<img src="/map legend/poster05.png">
+<img src="/map legend/poster05.png" style="max-height: 90vh">
 
 *Missing: My crow
 CAH-CAW
@@ -90,7 +90,7 @@ Contact: [discord.gg](discord.gg/pzGpnbQ)/
 
 ---
 
-<img src="/map legend/poster06.png">
+<img src="/map legend/poster06.png" style="max-height: 90vh">
 
 Missing: My crow cah-caw
 be aware, he hunts people,
@@ -98,16 +98,16 @@ especially people with black
 hair.
 Shout for cah-caw to
 scare him away.
-Contact: discord/pzGpnbQ
+Contact: discord/gg/pzGpnbQ
 BE AWARE
 
 ---
 
-<img src="/map legend/poster07.png">
+<img src="/map legend/poster07.png" style="max-height: 90vh">
 
 ---
 
-<img src="/map legend/poster08.png">
+<img src="/map legend/poster08.png" style="max-height: 90vh">
 
 мысын: май кров
 ках-кав
