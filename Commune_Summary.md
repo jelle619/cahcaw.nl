@@ -2,7 +2,7 @@
 title: Commune Summary
 description: 
 published: 1
-date: 2023-06-20T22:26:13.552Z
+date: 2023-06-20T22:27:26.790Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:33:30.805Z
@@ -14,7 +14,7 @@ The dream of the commune is simple: To live like a bunch of free souls in a fore
 
 Whilst there are many ways of going about this. This document will encapsulate the interpretation of the crow. Why a crow? Well, that is a story for another time.
 
-<img src="/commune/cover_art_v1.jpg" style="max-height: 90vh">
+<img src="/commune/cover_art_v1.jpg" style="height: 80vh">
 
 In the way of the crow, we want to avoid turning the commune into an ideology or a cult. Instead, all we care about in the end, is a good atmosphere. What we believe is necessary for a good atmosphere is:
 
@@ -170,6 +170,6 @@ I quickly pieced together a map as to where this will exactly be then - It is pr
 
 What is actually really interesting about this location is that it is filled to the brim with small rivers. If we could have one at the commune, that would open up a lot of different possibilities.
 
-![belgie.png](/commune/belgie.png)
+<img src="/commune/belgie.png" style="max-height: 90vh">
 
 # AND REMEMBER, IT IS NOT A QUESTION IF THE COMMUNE WILL BE A THING, IT IS A QUESTION WHEN
