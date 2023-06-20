@@ -2,7 +2,7 @@
 title: The Story
 description: 
 published: 1
-date: 2023-06-18T22:03:03.584Z
+date: 2023-06-20T22:53:25.888Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T07:59:27.460Z
@@ -27,7 +27,6 @@ The pages without a link still need to be written out.
 
 3. Sept 2022 - Nov 2022: Second report
    3.1 Another visit
-   3.2 Deadline
    3.3 Action
    [3.4 Editorial](https://cahcaw.nl/en/3_4_Editorial)
    [3.5 Message](https://cahcaw.nl/en/3_5_Message)
