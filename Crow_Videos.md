@@ -2,7 +2,7 @@
 title: Crow Videos
 description: 
 published: 1
-date: 2023-06-20T22:29:54.828Z
+date: 2023-06-20T22:30:18.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T16:39:50.527Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-29T16:39:50.527Z
 
 # Crow Videos
  	
-<iframe style="max-width: 90vh" src="https://www.youtube.com/embed/a4Y9bfQO8uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="height: 90vh" src="https://www.youtube.com/embed/a4Y9bfQO8uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
