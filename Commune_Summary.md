@@ -2,7 +2,7 @@
 title: Commune Summary
 description: 
 published: 1
-date: 2023-06-21T23:16:40.908Z
+date: 2023-06-21T23:18:36.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:33:30.805Z
