@@ -2,7 +2,7 @@
 title: Editorial
 description: 
 published: 1
-date: 2023-06-19T22:10:11.499Z
+date: 2023-06-21T23:04:54.366Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-18T22:01:12.417Z
@@ -129,3 +129,7 @@ Suffice to say... Dead end. Seems like I needed to come up with a new plan. At t
 I continued brainstorming. My thoughts kept racing from A to B, thinking of more extreme paths. I frequently thought back to the time I thought about chaining myself to the tree. But, in reality, it still didn't seem like a good idea, held back only by the fact it would hinder my future ambitions of the commune.
 
 So I went to bed that night with not much hope. A true miracle would need to happen in order to save our treehouse.
+
+---
+
+https://cahcaw.nl/en/3_5_Message
