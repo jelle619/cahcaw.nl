@@ -2,7 +2,7 @@
 title: Commune Summary
 description: 
 published: 1
-date: 2023-06-20T22:27:26.790Z
+date: 2023-06-21T23:16:40.908Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:33:30.805Z
@@ -172,4 +172,4 @@ What is actually really interesting about this location is that it is filled to 
 
 <img src="/commune/belgie.png" style="max-height: 90vh">
 
-# AND REMEMBER, IT IS NOT A QUESTION IF THE COMMUNE WILL BE A THING, IT IS A QUESTION WHEN
+# AND REMEMBER, THE QUESTION IS NOT IF BUT WHEN
