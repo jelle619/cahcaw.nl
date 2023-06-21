@@ -2,11 +2,13 @@
 title: 3.6 Flabbergasted
 description: 
 published: 1
-date: 2023-05-26T08:24:13.358Z
+date: 2023-06-21T22:58:00.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T15:08:17.612Z
 ---
+
+# Flabbergasted
 
 ## 23.09.22
 
@@ -24,7 +26,9 @@ So, when I arrived at my depot, I asked exactly that to the guy handing out the 
 
 I couldn't believe it. I looked again, and yes, that was indeed me and my friend. In the biggest newspaper of my region (3/4th of all physical newspapers delivered are Limburgers).
 
-![3.6a.jpg](/treehouse_story/3.6a.jpg)	
+Later I learned on that our article even ended up as one of the side stories of the national newspaper...
+
+<img src="/treehouse_story/3.6a.jpg" style="max-height: 90vh">	
 *Text on our image: Not just a treehouse, but it has to be demolished
 The contents of the article itself is the same as the online article, which can be found in the previous chapter.*
 
@@ -34,14 +38,14 @@ After making a picture and sharing the news with my friends, I thought: The peop
 
 Then I thought, hm, it is a bit bullish to vandalize newspapers I deliver. But, this event, it will never ever happen again in my life. So, I will regret it if I don't do it. Suffice to say after packing my newspapers I stopped by my home to pick up a marker.
 
-![3.6b.jpg](/treehouse_story/3.6b.jpg)
+<img src="/treehouse_story/3.6b.jpg" style="max-height: 90vh">
 
 ... and people loved it. The article, my small extra touch with a marker. The support was almost overwhelming. To give you an idea:
 - The next morning one of the houses I delivered to (and saw the 'your deliverer' note), had cut out the picture of the article and taped it on their front door. Under it they put a text: "I hope your treehouse may stay!"
 - Another person I delivered to, happened to also be a lady my mom knows. They had talked about the article and the lady said: "It's outrageous that the municipality does this! I will call them and tell them this is bullshit!"
 - When I walked around with my Christmas cards a couple months later (and make small talk + receive tips), at LEAST 10 people had asked about an update of the whole situation. All of them said they found it stupid how the municipality was acting.
 - The mom of one of the children I know because I volunteer at a scouting, had seen the article and bought me and Mike (who also volunteers there) a small canvas with the picture of the front page article on it.
-![3.6c.jpg](/treehouse_story/3.6c.jpg)
+<img src="/treehouse_story/3.6c.jpg" style="max-height: 90vh">
 - A ton of messages from random people who I barely know who had seen the article, voicing their support.
 
 ---
@@ -61,14 +65,9 @@ But, considering this is now in the physical newspaper, there is little we can c
 Yours kindly,
 Filip*
 
-His reaction was succinct:
-*I am not happy with this... I am expecting that an arrangement = an arrangement. The cleanup will take place urgently.
-The article is at the same time in the* Telegraph.
+His response ... was of course not a happy one. He reminded us that arrangement = arrangement, and hurry up with our act.
 
-Finally, my reply:
-*"Once again, I am sorry. Of course the clean-up will be carried on.*
-
-For the record, the telegraph is a national newspaper (instead of a regional one). We even got our article published there, but, we didn't make it to the front page.
+His response ... was of course not a happy one. He reminded us that we had to keep to our promise, as soon as possible.
 
 ---
 
@@ -96,7 +95,7 @@ Who hasn't built a treehouse as a child, or at least dreamt of it. How nice woul
 There has to be something to resolve this issue, one would say. To move to dreamland? Or create a free place where everyone is allowed to pursue their dreams? But perhaps we can stay closer to reality. Maybe there is someone out there, thinking: "I know a plot of land with a tree where one is allowed to build a treehouse. If so, let us know through the following mail address. Then we can possibly make at least two people happy. ██@██"*
 
 At some later date I made the following frame to forever honour this event. Of course the wood and plastic I used all originate from leftover construction materials from the treehouse:
-![3.6e.jpg](/treehouse_story/3.6e.jpg)
+<img src="/treehouse_story/3.6d.jpg" style="max-height: 90vh">
 
 ---
 
