@@ -2,7 +2,7 @@
 title: Crow Posters
 description: 
 published: 1
-date: 2023-06-20T22:41:18.836Z
+date: 2023-06-21T23:23:36.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-19T21:47:33.217Z
@@ -15,11 +15,8 @@ dateCreated: 2023-06-19T21:47:33.217Z
 ---
 
 Sometimes funny thoughts pop up into your mind and you share them. Even funnier when it leads to another funny thought, until it leads to a plan. The crow posters are exactly that.
-
 The focus is simple: You know these posters of people missing their pets, right? What if one were to fake it and spread it.
-
 Then came the idea, of how it should be about one missing their pet crow.
-
 Finally came the plan. During the summer holiday me and 2 close friends of mine sat down and created designs. These are the results:
 
 ---
