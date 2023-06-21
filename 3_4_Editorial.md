@@ -2,7 +2,7 @@
 title: Editorial
 description: 
 published: 1
-date: 2023-06-21T23:04:54.366Z
+date: 2023-06-21T23:12:52.476Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-18T22:01:12.417Z
@@ -132,4 +132,4 @@ So I went to bed that night with not much hope. A true miracle would need to hap
 
 ---
 
-https://cahcaw.nl/en/3_5_Message
+[Next Chapter](https://cahcaw.nl/en/3_5_Message)
