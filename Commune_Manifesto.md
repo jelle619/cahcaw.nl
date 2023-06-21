@@ -2,7 +2,7 @@
 title: Commune 101
 description: 
 published: 1
-date: 2023-06-21T23:22:18.993Z
+date: 2023-06-21T23:22:42.611Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-19T23:39:22.403Z
