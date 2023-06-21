@@ -2,7 +2,7 @@
 title: 3.7 Leverage
 description: 
 published: 1
-date: 2023-06-19T22:13:53.416Z
+date: 2023-06-21T23:03:27.985Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:12:10.833Z
@@ -80,3 +80,7 @@ Filip & Mike*
 
 And that is it right.... What was supposed to be the final day, evaded.... For now.
 We never got a response from our contact person on the last mail. He probably out of frustration accepted our plea without feeling like responding.
+
+---
+
+[Next Chapter](https://cahcaw.nl/en/4_0_Limbo)
