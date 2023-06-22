@@ -2,7 +2,7 @@
 title: Commune Summary
 description: 
 published: 1
-date: 2023-06-22T16:28:36.221Z
+date: 2023-06-22T16:29:57.583Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:33:30.805Z
@@ -16,7 +16,7 @@ The dream of the commune is simple: To live like a bunch of free souls in a fore
 
 Whilst there are many ways of going about this. This document will encapsulate the interpretation of the crow. Why a crow? Well, that is a story for another time.
 
-<img src="/commune/cover_art_v1.jpg" style="height: 80vh">
+<img src="/commune/cover_art_v1.jpg" style="height: 90vh">
 
 In the way of the crow, we want to avoid turning the commune into an ideology or a cult. Instead, all we care about in the end, is a good atmosphere. What we believe is necessary for a good atmosphere is:
 
