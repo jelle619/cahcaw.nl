@@ -2,11 +2,13 @@
 title: Commune Summary
 description: 
 published: 1
-date: 2023-06-21T23:18:36.416Z
+date: 2023-06-22T16:28:36.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T12:33:30.805Z
 ---
+
+[Download PDF-version here](https://cdn.discordapp.com/attachments/1121475459461435453/1121476587326546000/Commune_Summary.pdf)
 
 # Commune Summary
 
